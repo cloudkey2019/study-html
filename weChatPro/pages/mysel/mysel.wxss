@@ -1,0 +1,187 @@
+page {
+  background: #edf0f0;
+}
+
+.header {
+  width: 100%;
+  height: 120px;
+  background: #6ba7f7;
+  border-top: 1px solid #6ba7f7;
+}
+
+.body .items .item {
+  width: 25%;
+  float: left;
+}
+
+
+.header .my-pic {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  background: white;
+  margin-left: 15px;
+  margin-top: 30px;
+  float: left;
+  box-shadow: 1px 1px 2px lightslategray;
+}
+.header .my-pic .area{
+   position: absolute;
+   left: 0px;
+   top: 14px;
+    height: 65px;
+    width:65px;
+    border-radius: 50%;
+
+    border: 20px solid #6ba7f7;
+}
+
+.header .username {
+
+  font-size: 14px;
+  float: left;
+  margin-top: 51px;
+  margin-left: 20px;
+}
+
+
+.body {
+  padding-top: 15px;
+  width: 92%;
+  margin: 0 auto;
+}
+
+.body .my-server {
+  width: 100%;
+  height: 200px;
+  vertical-align: middle;
+  border-radius: 5%;
+  background: white;
+  box-shadow: 2px 2px 2px rgb(221, 223, 224);
+}
+
+.body .my-server .my-server-text {
+  padding: 10px;
+  border-bottom: 1px solid rgb(219, 218, 218);
+}
+
+.body .my-server .my-server-text .star {
+  width: 16px;
+  height: 16px;
+  float: left;
+}
+
+.body .my-server .my-server-text .text1 {
+  font-size: 14px;
+  font-weight: 600;
+  margin-left: 25px;
+}
+
+.body .items {
+  width: 92%;
+  padding: 10px;
+  float: left;
+}
+
+.body .items .item {
+  width: 25%;
+  float: left;
+}
+
+.body .items .item .item-pic {
+  box-shadow: 1px 1px 2px rgb(201, 200, 200);
+  background: rgb(255, 210, 128);
+  border-radius: 50%;
+  width: 36px;
+  height: 36px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.body .items .item .order {
+  background: rgb(253, 187, 198);
+}
+.body .items .item .juan{
+  background: red;
+}
+.body .items .item .pintuan{
+  background: rgb(131, 131, 255);
+}
+.body .items .item .baoming{
+  background: rgb(255, 136, 0);
+}
+.body .items .item .ser{
+  background:rgb(252, 80, 108);
+}
+.body .items .item .addr{
+  background: rgb(255, 94, 0);
+}
+.body .items .item .text2 {
+  margin-top: 5px;
+  text-align: center;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+.body .items .item .item-pic image {
+  width: 28px;
+  height: 28px;
+  display: inline-block;
+  vertical-align: middle;
+  margin-top: 4px;
+}
+
+.body .ping-server {
+  margin-top: 15px;
+  width: 100%;
+  height: 130px;
+  vertical-align: middle;
+  border-radius: 5%;
+  background: white;
+  box-shadow: 2px 2px 2px rgb(221, 223, 224);
+}
+
+.body .ping-server .my-server-text {
+  padding: 10px;
+  border-bottom: 1px solid rgb(219, 218, 218);
+}
+
+.body .ping-server .my-server-text .star {
+  width: 16px;
+  height: 16px;
+  float: left;
+}
+
+.body .ping-server .my-server-text .text1 {
+  font-size: 14px;
+  font-weight: 600;
+  margin-left: 25px;
+}
+
+.body .bnss-server {
+  margin-bottom: 15px;
+  margin-top: 15px;
+  width: 100%;
+  height: 130px;
+  vertical-align: middle;
+  border-radius: 5%;
+  background: white;
+  box-shadow: 2px 2px 2px rgb(221, 223, 224);
+}
+
+.body .bnss-server .my-server-text {
+  padding: 10px;
+  border-bottom: 1px solid rgb(219, 218, 218);
+}
+
+.body .bnss-server .my-server-text .star {
+  width: 16px;
+  height: 16px;
+  float: left;
+}
+
+.body .bnss-server .my-server-text .text1 {
+  font-size: 14px;
+  font-weight: 600;
+  margin-left: 25px;
+}

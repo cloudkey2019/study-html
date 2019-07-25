@@ -1,0 +1,16 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+.wrapper {
+  background: white;
+}
+.wrapper .nav {
+  font-size: 14px;
+}
+.wrapper .container {
+  font-size: 14px;
+}
+.wrapper .container:hover {
+  background: red;
+}

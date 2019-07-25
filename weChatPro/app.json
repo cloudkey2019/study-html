@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/mysel/mysel",
+    "pages/1/1"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#579aff",
+    "navigationBarTitleText": "个人中心",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json"
+}
